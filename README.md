@@ -1,5 +1,5 @@
 # Hunger Hunt
-Online food ordering project
+>A Online food ordering project
 
 Use case Diagram 
 <img width="742" alt="Screenshot 2023-03-18 at 8 07 03 PM" src="https://user-images.githubusercontent.com/42184594/226146553-c339606f-b35d-4a56-9797-8f0e456e9bde.png">
